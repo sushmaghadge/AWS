@@ -32,9 +32,9 @@ public class CreateTablesLoadData {
             "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'");
 
     static String productCatalogTableName = "ProductCatalog";
-    static String forumTableName = "Forum";
-    static String threadTableName = "Thread";
-    static String replyTableName = "Reply";
+    static String forumTableName = "Forum_Sush";
+    static String threadTableName = "Thread_Sush";
+    static String replyTableName = "Reply_Sush";
 
     public static void main(String[] args) throws Exception {
 
